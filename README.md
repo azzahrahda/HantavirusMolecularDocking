@@ -119,7 +119,7 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 - [Final Report (PDF)](final_report.pdf)
 - [Presentation Slides (PDF)](presentation.pdf)
 - [Protein Structure - 5E04](protein5E04.cif)
-- [Protein Structure (.pdbqt)](protein5E04.pdbqt)
+- [Protein Structure (.pdb)](protein5E04.pdb)
 - [Curcumin Structure](curcumin.sdf)
 - [Quercetin Structure](quercetin.sdf)
 - [Kaempferol Structure](kaempferol.sdf)
