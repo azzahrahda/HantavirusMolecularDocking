@@ -99,20 +99,6 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 </p>
 ---
 
-## 📁 Repository Structure
-
-```bash
-hantavirus-molecular-docking/
-│
-├── images/
-├── ligands/
-├── protein/
-├── docking_results/
-├── report/
-├── presentation/
-└── README.md
-```
-
 ---
 
 ## 🔁 Reproducibility
