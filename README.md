@@ -1,12 +1,12 @@
 # Hantavirus Molecular Docking
 
-🔬✨ *In Silico Molecular Docking Analysis of Curcumin, Quercetin, and Kaempferol Against Hantavirus Nucleocapsid Protein (5E04)*
+*In Silico Molecular Docking Analysis of Curcumin, Quercetin, and Kaempferol Against Hantavirus Nucleocapsid Protein  ([PDB ID: 5E04](https://www.rcsb.org/structure/5E04))*
 
 ---
 
 ## 🧬 About This Project
 
-This project explores the potential antiviral activity of natural compounds against the Hantavirus nucleocapsid protein (PDB ID: 5E04) through *in silico molecular docking* analysis.
+This project explores the potential antiviral activity of natural compounds against the Hantavirus Nucleocapsid Protein ([PDB ID: 5E04](https://www.rcsb.org/structure/5E04)) through *in silico molecular docking* analysis.
 
 The docking simulation was carried out using **PyRx** with **AutoDock Vina** to evaluate ligand–protein interactions and compare binding affinity values among tested compounds.
 
