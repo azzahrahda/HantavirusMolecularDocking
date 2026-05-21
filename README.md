@@ -88,14 +88,14 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 ## 🖼️ Quercetin 2D Interaction
 
 <p align="center">
-  <img src="images/Quercetin_2D.png" width="70%">
+  <img src="Quercetin_2D.png" width="70%">
 </p>
 ---
 
 ### Docking Pose Visualization
 
 <p align="center">
-  <img src="images/docking_pose.png" width="70%">
+  <img src="quercetin_docking_pose" width="70%">
 </p>
 ---
 
