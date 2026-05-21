@@ -124,8 +124,8 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 - [Quercetin Structure](quercetin.sdf)
 - [Kaempferol Structure](kaempferol.sdf)
 - [Ribavirin Structure](ribavirin.sdf)
-- [Docking Pose Visualization](visualization/quercetin_docking_pose.png)
-- [Quercetin 2D Interaction](visualization/quercetin_2d.png)
+- [Docking Pose Visualization](Quercetin_docking_pose.png)
+- [Quercetin 2D Interaction](quercetin_2D.png)
 
 ---
 
