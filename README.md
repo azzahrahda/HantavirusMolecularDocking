@@ -114,12 +114,19 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 
 ## 📄 Project Files
 
-- Final report (.pdf)
-- Presentation slides (.pptx / .pdf)
-- Protein structure files
-- Ligand structure files
-- Docking visualization results
+## 📄 Project Files
+
+- [Final Report (PDF)](final_report.pdf)
+- [Presentation Slides (PDF)](presentation.pdf)
+- [Protein Structure - 5E04](protein5E04.pdb)
+- [Protein Structure (.pdbqt)](protein5E04.pdbqt)
+- [Curcumin Structure](curcumin.sdf)
+- [Quercetin Structure](quercetin.sdf)
+- [Kaempferol Structure](kaempferol.sdf)
+- [Ribavirin Structure](ribavirin.sdf)
+- [Docking Pose Visualization](visualization/quercetin_docking_pose.png)
+- [Quercetin 2D Interaction](visualization/quercetin_2d.png)
 
 ---
 
-⭐ *Bioinformatics Mini Project — 2026* ⭐
+- *Bioinformatics Mini Project — 2026* -
