@@ -116,7 +116,7 @@ The nucleocapsid protein is essential for viral RNA binding and replication, mak
 
 ## 📄 Project Files
 
-- [Final Report (PDF)](final_report.pdf)
+- [Final Report (PDF)](FinalReportMiniProject_Group17.pdf)
 - [Presentation Slides (PDF)](presentation.pdf)
 - [Protein Structure - 5E04](protein5E04.cif)
 - [Protein Structure (.pdb)](protein5E04.pdb)
